@@ -2,6 +2,7 @@
 This repository contains everything relating to the hardware of the OPET device.  If you are looking for the firmware or software repositories, links are below:
 
 [OPET Firmware](https://github.com/NREL/opet-firmware)
+
 [OPET Control Software](https://github.com/NREL/opet-control)
 
 ## Feature summary
