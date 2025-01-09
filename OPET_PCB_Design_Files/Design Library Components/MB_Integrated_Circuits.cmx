@@ -1,0 +1,58 @@
+AD7683BRMZ_16bit_ADC||#SM=8=MSOP_8Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=912-7028||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AD8221ARZ||#SM=8=SOIC_8Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+ADG451BRZ||#SM=16=SOIC_16Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AD_AD7715-5_SOIC||#SM=16=SOIC_16Pin_Wide||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=
+AD_ADM2486BRWZ||#SM=16=SOIC_16Pin_Wide||@[Description]=RS485 Transceiver Isolated, Half Duplex, 2.7V to 5.5V Supply, SOIC-16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=412-999||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+ATmega324P-TQFP||#SMD=44=TQFP_44Pin_12X12||@[Description]=8-bit AVR Microcontroller 32Kb Prog Flash||@RS Part Number=||@Allied_Number=||@Mfr=Atmel||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Category=Microcontroller/ATmega||@Speed=8MHz||@Voltage=2.7V-5.5V||@Other Part Number=||@3D Package=||@Height=
+ATmega324PU-DIL||#DIL=40=F_STD_DIL40_15-24||@[Description]=8-bit AVR Microcontroller 32Kb Prog Flash||@RS Part Number=||@Allied_Number=||@Mfr=Atmel||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Category=Microcontroller/ATmega||@Speed=8MHz||@Voltage=2.7V-5.5V||@Other Part Number=||@3D Package=||@Height=
+C_AD_AD623ANZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_AD7715-5||#DIL=16=F_STD_DIL16_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_AD8561||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_ADM485||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_OP27GPZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_OP37GPZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_REF02HPZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AD_REF03GPZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_ATMEGA328P-PU||#DIL=28=F_STD_DIL28_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_DCDC_1ch_7pin_2-54pitch||#SM=7=P_DCDC_7pin_2-54pitch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_DCDC_2ch_7pin_2-54pitch||#SM=7=P_DCDC_7pin_2-54pitch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_FS_6N137||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_FTDI_MM232R||#USER=16=P_FTDI_MM232R||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_ICL7660ACPAZ||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_ICM7555||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_IR_IRS2011PBF||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_IR_IRS2118PBF||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LT1013DP||#DIL=8=F_STD_DIL8_7-62||@RS Part Number=162-5405||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LT1014ACN||#DIL=14=F_STD_DIL14_7-62||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LT1025CN||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LT1167CN8||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LTC1050CN8||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LT_LTC1051CN8||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_MAX314||#DIL=16=F_STD_DIL16_7-62||@[Description]=Analogue Switch||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_MCP4921||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_MPC3304||#DIL=16=F_STD_DIL16_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_NS_LF412CN||#DIL=8=F_STD_DIL8_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_TI_OPA227||#DIL=14=F_STD_DIL14_7-62||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+DAC8550IBDGKT_16bit DAC||#SM=8=uMAX_8Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=190-4627||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+DG408LEDY_8-1_MUX||#SM=16=SOIC_16Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+DG409DY-T1-E3||#SM=16=SOIC_16Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+INA826AID||#SM=8=SOIC_8Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+ISO3088DW||#SM=16=SOIC_16Pin_Wide||@[Description]=RS485 Transceiver Isolated, Half Duplex, 2.7V to 5.5V Supply, SOIC-16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=412-999||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+IX4427_2-CH_M-FET_DRV||#SM=8=SOIC_8Pin_E-4m||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+LF412C_Dual_Op-Amp||#SM=8=SOIC_8Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+MAX1163_16bit_ADC||#SM=10=uMAX_10Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MAX4659_A_switch_SPDT||#SM=8=SOIC_8Pin_E-4m||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MAX4665CSE||#SM=16=SOIC_16Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MAX5216BGUA_16bit DAC||#SM=8=uMAX_8Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=190-4627||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MAX14932 Dig Isolator||#SOIC-Wide=16=SOIC_16Pin_Wide||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||#SOIC-Narrow=16=SOIC_16Pin_STD||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP23S17_IO_EXP||#SM=28=SOIC_28Pin_Wide||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+MCP1501_Vref||#SM=8=SOIC_8Pin_E-4m||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MP6513GJ-P_H-bridge||#SM=6=SOT-23_6-pin||@[Description]=H-Bridge driver||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+MUX508IDR||#SM=16=SOIC_16Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+MUX509IDR||#SM=16=SOIC_16Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+OP1177_singl_op-amp||#SM=8=SOIC_8Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+OP2177_dual_op-amp||#SM=8=SOIC_8Pin_E-4m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+OPA140AID||#SM=8=MSOP_8Pin_STD||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+PCA9555_IO_EXP||#SM=24=SOIC_24Pin_Wide||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+REF198FSZ||#SM=8=SOIC_8Pin_STD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=709-8571||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SN74LVC1G175DBVT-FlipFlop||#SM=6=SOT-23_6-pin||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=

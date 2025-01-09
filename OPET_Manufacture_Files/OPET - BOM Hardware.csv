@@ -1,0 +1,30 @@
+﻿OPET Hardware,,,,,
+,,,,,
+HC Model,,,,,
+,Location,Quantity,Dimension,Part Number,Vendor
+,T4,1,M3x0.5 16mm,91292A115,McMaster Carr
+,T4,2,M3 Washer,98689A112,McMaster Carr
+,T4,1,M3 Locknut,93625A100,McMaster Carr
+,T4,1,Thermal paste for diode (2 legged component),860-60G,Digikey
+,T4,1,Thermal pad for MosFET (3 legged component),2195N4,McMaster Carr
+,RS1,1,M3x0.5 16mm,91292A115,McMaster Carr
+,RS1,2,M3 Washer,98689A112,McMaster Carr
+,RS1,1,M3 Locknut,93625A100,McMaster Carr
+,RS1,1,Thermal paste for Resistor (4 legged component),860-60G,Digikey
+,RS1,1,Thermal pad for MosFET (3 legged component),2195N4,McMaster Carr
+,VR2,1,M3x0.5 12mm,91292A114,McMaster Carr
+,VR2,2,M3 Washer,98689A112,McMaster Carr
+,VR2,1,M3 Locknut,93625A100,McMaster Carr
+,,,,,
+,,,,,
+LC Model,,,,,
+,T4,1,M3x0.5 12mm,91292A114,McMaster Carr
+,T4,2,M3 Washer,98689A112,McMaster Carr
+,T4,1,M3 Locknut,93625A100,McMaster Carr
+,T1,1,M3x0.5 12mm,91292A114,McMaster Carr
+,T1,2,M3 Washer,98689A112,McMaster Carr
+,T1,1,M3 Locknut,93625A100,McMaster Carr
+,T1,1,Thermal pad,2195N4,McMaster Carr
+,VR2,1,M3x0.5 12mm,91292A114,McMaster Carr
+,VR2,2,M3 Washer,98689A112,McMaster Carr
+,VR2,1,M3 Locknut,93625A100,McMaster Carr

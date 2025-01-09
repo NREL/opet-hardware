@@ -1,0 +1,12 @@
+S_Double_Diode_Series||3
+S_MosFET_N-CH||3
+S_MosFET_P-CH||3
+S_Resistor_4-wire||4
+S_STD_Diode||2
+S_STD_LED||2
+S_Transistor_NPN||3
+S_Transistor_PNP||3
+S_Volt_Reg||3
+S_XTAL||2
+S_Zener_Diode||2
+XTAL||4

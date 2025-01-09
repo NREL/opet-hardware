@@ -1,0 +1,47 @@
+Con_plug_2n_3-50p||#USER=2=Con_plug_2n_3-50p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_2n_5-08p||#USER=2=Con_plug_2n_5-08p||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_3n_3-50p||#USER=3=Con_plug_3n_3-50p||@[Description]=plugable connector socket 3pins at 5.08pitch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_3n_5-08p||#USER=3=Con_plug_3n_5-08p||@[Description]=plugable connector socket 3pins at 5.08pitch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_4n_2-50p||#USER=4=Con_plug_4n_2-50p||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_4n_3-50p||#USER=4=Con_plug_4n_3-50p||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_4n_3-81p||#USER=4=Con_plug_4n_3-81p||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_5n_3-50p||#USER=5=Con_plug_5n_3-50p||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Con_plug_6n_3-50p||#USER=6=Con_plug_6n_3-50p||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AVR_ISP-6||#USER=6=F_Head3-2_2.54||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_AVR_ISP-6_Angled||#USER=6=F_Head3-2_2.54_angled||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=
+C_AVR_JTAG_10||#DIL=10=F_Head5-2_2.54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||#1-27m_50mil=10=F_Head5-2_1.27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Bridge4_3-81||#USER=4=F_Bridge4_3-81||@[Description]=wire jumper bridge to swap polarity||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con2_2-54_solder_wire||#USER=2=P_Con2_2-54_small_hole||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con2_3-81||#USER=2=P_Con2_3-81||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con2_5-08||#USER=2=P_Con2_5-08||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con2_7-62||#USER=2=P_Con2_7-92||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con2_9-52||#USER=2=P_Con2_9-52||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con3_3-81||#USER=3=P_Con3_3-81||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con3_7-62||#USER=3=P_Con3_7-92||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con4_3-81||#SIL=4=P_Con4_3-81||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con4_9-52||#USER=4=P_Con4_9-52||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con4_FAN_2-54||#USER=5=F_Con4_FAN_2-54||@[Description]=standard 4 pin fan connector||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con5_3-81||#USER=5=P_Con5_3-81||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con8_2-54||#USER=16=P_Con8_2-54||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con8_SPI_Ext_Ada3328_RTD||#USER=8=F_Con8_SPI_Ext_Adafruit||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con9_IC2_Ext_Adafruit||#USER=9=F_Con9_IC2_Ext_Adafruit||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Con9_SPI_Ext_Ada3263_TC_AMP||#USER=9=F_Con9_IC2_Ext_Adafruit||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Fuse_6-3x32mm_&_5x20mm||#USER=5=P_Fuse_6-3x32mm_&_5x20mm||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Fuse_22-6||#USER=2=P_Fuse_22-6||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=||@Value=100mA
+C_Head_3x2_2-54||#USER=6=F_Head3-2_2.54||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jump2_2-54||#USER=2=F_Jump2_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jump4_2-54||#DIL=4=F_Jump4_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jump6_2-54||#USER=6=F_Jump6_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jump8_2-54||#USER=8=F_Jump8_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jump10_2-54||#SMD=10=F_Jump10_SMD_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=||#USER=10=F_Jump10_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jumper_DIL_3||#DIL=6=P_Jumper_DIL_3||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jumper_DIL_4||#DIL=8=P_Jumper_DIL_4||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jumper_DIL_5||#DIL=10=P_Jumper_DIL_5||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Jumper_DIL_6||#DIL=12=P_Jumper_DIL_6||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Relay_DPDT_1C-Latch||#DIL=8=P_RELAY_DIL_DPDT-1C-latch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Relay_DPDT_2C-Latch||#DIL=10=P_RELAY_DIL_DPDT-2C-latch||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Relay_DPDT_7-5_5||#USER=8=P_Relay_DTDP_7-5_5||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Relay_DPDT_Signal||#USER=8=P_Relay_DTDP_Signal||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Relay_SPNO_Signal_Reed||#USER=4=P_Relay_SPNO_Signal_Reed||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Test_Point_1||#SM=1=F_Test_Point_1_SM||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Test_Point_2||#DIL=2=F_Test_Point_2_2-54||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=

@@ -1,0 +1,25 @@
+C_Relay_DPDT||8
+C_Relay_SPNO||4
+S_ RELAY_DPDT_2C-Latch||10
+S_Bridge_4||4
+S_Connector_2||2
+S_Connector_3||3
+S_Connector_4||4
+S_Connector_5||5
+S_Connector_6||6
+S_Connector_8||8
+S_Connector_9||9
+S_Connector_10||10
+S_Fuse||2
+S_Jumper_2||2
+S_Jumper_4||4
+S_Jumper_6||6
+S_Jumper_8||8
+S_Jumper_10||10
+S_Jumper_DIL_3||6
+S_Jumper_DIL_4||8
+S_Jumper_DIL_5||10
+S_Jumper_DIL_6||12
+S_RELAY_DPDT_1C-Latch||8
+S_Test_Point_1||1
+S_Test_Point_2||2

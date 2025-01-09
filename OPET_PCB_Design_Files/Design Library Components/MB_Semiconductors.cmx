@@ -1,0 +1,36 @@
+C_2xIRFB4227+HS||#USER=8=P_2xTO220AB_+HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_2xMUR1520_+HeatSink||#USER=4=P_2xTO220AC_+HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_D44H11+D45H11+HS||#USER=8=P_2xTO220AB_+HeatSink||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Diode_5-08||#USER=2=P_Diode_5-08||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Diode_7-62||#USER=2=P_Diode_7-62||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Diode_11-43||#USER=2=P_Diode_11-43||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+C_FR4-2321-4pin_+TO220+HeatSink||#USER=9=P_FR4-2321-4pin_+TO220+HeatSink||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=
+C_FS_BS270||#USER=3=P_FS_BS270||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_IRFB4227+MUR1520_+Heatsink||#USER=7=P_TO220AB+TO220AC_+HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_IRFB4227_+HeatSink||#USER=5=P_TO220AB_+HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_LED_3mm_2-54||#USER=2=P_LED_3mm_2-54||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_MosFET+RA-T2X-xxE_HeatSink||#USER=5=P_TO220+RA-T2X-xxE_HeatSink||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_MUR1520_+HeatSink||#USER=2=P_TO220AC_+HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_TO220AB_MosFET_+Small_HS||#USER=3=P_TO220_+Small_HeatSink||@RS Part Number=||@Allied_Number=||@Mfr=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Component Height=||@Datasheet=||@Package=||@Other Part Number=||@3D Package=||@Height=||@Type=IRFB7430
+C_Volt_Reg_ADJ_TO220_+Small_HS||#USER=3=P_TO220_+Small_HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Volt_Reg_NEG_TO220_+Small_HS||#USER=3=P_TO220_+Small_HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_Volt_Reg_POS_TO220_+Small_HS||#USER=3=P_TO220_+Small_HeatSink||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_XTAL_5-08||#USER=2=P_XTAL_5-08||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+C_ZTX551||#USER=3=P_Transistor_LP_2-54||@Mfr=||@Component Height=||@RS Part Number=||@Datasheet=||@Package=||@Manufacturer_Part_Number=||@Manufacturer_Name=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Diode_SM_DO219AB||#SM=2=SM_Diode_DO219AB||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_2_Ser_SOD23||#SM=3=SM_Diode_SOT23-3_0-95pitch||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_DO214AA||#SM=2=SM_Diode_DO214AA||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_SOD80C||#USER=2=SM_Diode_SOD80C||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_SOD123||#SM=2=SM_Diode_SOD123||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_SOD323||#SM=2=SM_Diode_SOD323||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Diode_SOD523F||#SM=2=SM_Diode_SOD523F||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_LED_0805i_2012m||#SM=2=SM_Diode_0805i_2012m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_MosFET_P-ch_SOT23-3||#SM=3=SM_MosFET_SOT23-3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_MosFET_SOIC8_E4||#SM=8=SOIC_8Pin_E-4m||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Zehner_Diode_DO214||#USER=2=SM_Diode_DO214AA||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Zehner_Diode_SOD106||#USER=2=SM_Diode_SOD106||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+SM_Zehner_Diode_SOD123||#USER=2=SM_Diode_SOD123||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+SOT32_MosFET_N-ch||#SM=3=SM_MosFET_SOT23-3||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Volt_Reg_Neg_SOIC||#SM=8=SOIC_8Pin_STD||@[Description]=Negative voltage regulator SOIC||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+Volt_Reg_Pos_SOIC||#SM=8=SOIC_8Pin_STD||@[Description]=Positive voltage regulator SOIC||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
+XTAL_3.2_2.5m||#SM=4=SM_Oscillator_3.2_2.5m||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
