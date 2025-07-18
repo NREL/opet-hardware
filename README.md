@@ -545,6 +545,6 @@ If your goal is to just have some OPET tools manufactured, all the necessary fil
 - **OPET - CPL Component Placement List** Contains the positions and orientations of components.  Will be required for PCB assembly.
 - **OPET - PCB Manufacturing Notes** Includes notes about copper weight, board specifications and other notes that a manufacturer will need.
 
+# Disclaimer
 
-
-
+DISCLAIMER: NREL/ALLIANCE FOR SUSTAINABLE ENERGY, LLC/DOE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, AND MAKES NO WARRANTY AS TO THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY INFORMATION PROVIDED HEREIN. USE OF THIS PACKAGE IS AT THE USER’S OWN RISK.
