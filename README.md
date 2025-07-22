@@ -529,14 +529,14 @@ $$P_{total} = P_{MP} + (V_{bias} - V_{Diode} - V_{cable})*\ I_{MP}$$
 # Making OPETs
 
 ## PCB Design Files
-The provided files were created using [RS Design Spark](https://www.rs-online.com/designspark/pcb-software)software.  Schematics of individual systems are broken out individually.  The PCB design is unified between both the HC and LC versions of the OPET.  Custom library components are also provided.
+The provided files were created using [RS Design Spark](https://www.rs-online.com/designspark/pcb-software) software.  Schematics of individual systems are broken out individually.  The PCB design is unified between both the HC and LC versions of the OPET.  Custom library components are also provided.
 
-[OPET PCB Design Files](OPET_PCB_Design_Files/readme.md)
+[OPET PCB Design Files](OPET_PCB_Design_Files)
 
-Note that bills of materials for board components are located in the [OPET Manufacture Files](opet-hardware/OPET_Manufacture_Files/readme.md) folder.
+Note that bills of materials for board components are located in the [OPET Manufacture Files](opet-hardware/OPET_Manufacture_Files) folder.
 
 ## Manufacture Files
-If your goal is to just have some OPET tools manufactured, all the necessary files are included in the [OPET Manufacture Files](opet-hardware/OPET_Manufacture_Files/readme.md) folder.  These files should include everything a PCB manufacturing house needs to fabricate the PCBs and acquire and assemble components.
+If your goal is to just have some OPET tools manufactured, all the necessary files are included in the [OPET Manufacture Files](opet-hardware/OPET_Manufacture_Files) folder.  These files should include everything a PCB manufacturing house needs to fabricate the PCBs and acquire and assemble components.
 
 - **OPET - Gerber** Gerber manufacturing files.
 - **OPET - BOM Hardware** List of mechanical hardware options for assembling OPETs.  This includes things like screws, nuts and thermal pads or paste.
